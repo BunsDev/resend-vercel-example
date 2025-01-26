@@ -6,7 +6,7 @@ This example shows how to use Resend with React Email + Next.js + Vercel.
 
 Deploy the example using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/resend/resend-vercel-example&project-name=resend-vercel-example&repository-name=resend-vercel-example&env=RESEND_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bunsdev/resend-vercel-example&project-name=resend-vercel-example&repository-name=resend-vercel-example&env=RESEND_API_KEY)
 
 ## Instructions
 
